@@ -1,0 +1,19 @@
+{
+  "name":        "phrest/doc",
+  "type":        "library",
+  "description": "REST API Documentation Package for Phalcon PHP for use with https://github.com/phrest/api",
+  "keywords":    ["phalcon", "rest", "api", "api first", "apigee", "docs", "documentation generator"],
+  "homepage":    "https://github.com/phrest/doc",
+  "license":     "MIT",
+  "authors":     [
+    {
+      "name":     "Phrest",
+      "homepage": "https://github.com/phrest"
+    }
+  ],
+  "autoload":    {
+    "psr-4": {
+      "PhrestDoc\\": "src/"
+    }
+  }
+}
