@@ -1,5 +1,5 @@
-Phrest Documentation Package
+PhREST Documentation Package
 ===
 
-Automatic documentation package for Phrest API.
+Automatic documentation package for PhREST API.
 
