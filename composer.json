@@ -15,5 +15,8 @@
     "psr-4": {
       "PhrestDoc\\": "src/"
     }
+  },
+  "require":           {
+    "phrest/api":        "dev-master"
   }
 }
